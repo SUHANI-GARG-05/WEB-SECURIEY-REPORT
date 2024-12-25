@@ -1,4 +1,4 @@
-# WEB-SECURIEY-REPORT
+# WEB-SECURItY-REPORT
 [README.md](https://github.com/user-attachments/files/18246219/README.md)
 # OSWAP TOP 10
 
